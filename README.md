@@ -8,3 +8,6 @@ CMPG 323
 Project 1 is be the main structure for the semester.
 
 <h2>List of repositories</h2>
+
+
+.gitignore will be used to ensure that some library, runtime and unneeded repository files are not being commited to the repositories.
